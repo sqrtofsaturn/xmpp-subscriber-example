@@ -1,0 +1,19 @@
+{
+  "name": "subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "coffee-script": "^1.10.0",
+    "meshblu-config": "^4.0.0",
+    "meshblu-xmpp": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Octoblu, Inc.",
+  "license": "MIT"
+}
